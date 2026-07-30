@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated wave banner with name typing in -->
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=220&amp;section=header&amp;text=Hi%20There,%20I'm%20Tanishq%20%F0%9F%91%8B&amp;fontSize=38&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Frontend%20%26%20React%20Native%20Developer&amp;descAlignY=51&amp;descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=220&amp;section=header&amp;text=Hi%20There,%20I%27m%20Tanishq%20%F0%9F%91%8B&amp;fontSize=38&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Frontend%20and%20React%20Native%20Developer&amp;descAlignY=51&amp;descAlign=50" width="100%"/>
 
 <!-- Typing SVG subtitle -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Building+smooth%2C+themeable+mobile+UIs;React+Native+%7C+React+%7C+UI%2FUX+enthusiast;B.Tech+CSE+%40+VIT+Bhopal+%7C+Grad+2027;Currently+shipping+Khel+Saarthi+%26+Mansik" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Building+smooth%2C+themeable+mobile+UIs;React+Native+%7C+React+%7C+UI%2FUX+enthusiast;B.Tech+CSE+%40+VIT+Bhopal+%7C+Grad+2027;Currently+building+Mansik" alt="Typing SVG" />
 </a>
 
 <p>
@@ -24,7 +24,7 @@
 
 - 🎓 B.Tech CSE @ **VIT Bhopal University** (May 2023 – May 2027) · CGPA 7.86
 - 🎨 Frontend &amp; React Native developer — I focus on clean UI/UX, component architecture, and seamless user experiences
-- 🔭 Currently building **Khel Saarthi** (React Native sports community app) and **Mansik** (AI-powered mental wellness platform)
+- 🔭 Currently building **Mansik**, an AI-powered mental wellness platform
 - 🧩 Comfortable with backend integration, REST APIs, and AI/ML concepts through academic and project work
 - 🎪 Core Member, Event Management — iCreate Club, VIT Bhopal (co-organized Funfinity at Advitya'25)
 - 📍 Based in Indore, MP
@@ -44,7 +44,7 @@
 
 **Data &amp; ML**
 
-<p> <img src="https://img.shields.io/badge/-scikit--learn-F7931E?style=for-the-badge&amp;logo=scikit-learn&amp;logoColor=white"/> <img src="https://img.shields.io/badge/-pandas-150458?style=for-the-badge&amp;logo=pandas&amp;logoColor=white"/> <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&amp;logo=opencv&amp;logoColor=white"/> <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white"/> <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white"/> <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white"/> </p>
+<p> <img src="https://img.shields.io/badge/-scikit--learn-F7931E?style=for-the-badge&amp;logo=scikit-learn&amp;logoColor=white"/> <img src="https://img.shields.io/badge/-pandas-150458?style=for-the-badge&amp;logo=pandas&amp;logoColor=white"/> <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white"/> <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white"/> <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white"/> </p>
 
 **Tools &amp; Platforms**
 
