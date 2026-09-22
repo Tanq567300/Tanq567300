@@ -5,14 +5,13 @@
 
 <!-- Typing SVG subtitle -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Building+smooth%2C+themeable+mobile+UIs;React+Native+%7C+React+%7C+UI%2FUX+enthusiast;B.Tech+CSE+%40+VIT+Bhopal+%7C+Grad+2027;Currently+building+Mansik" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Building+smooth%2C+themeable+mobile+UIs;React+Native+%7C+React+%7C+UI%2FUX+enthusiast;B.Tech+CSE+%40+VIT+Bhopal+%7C+Grad+2027;Working+on+Apply-Better+mobile+app+@+Recooty" alt="Typing SVG" />
 </a>
 
 <p>
   <a href="mailto:tp567300@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&amp;logo=gmail&amp;logoColor=white"/></a>
   <a href="https://github.com/Tanq567300"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&amp;logo=github&amp;logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/tanishq567/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&amp;logo=linkedin&amp;logoColor=white"/></a>
-  <a href="https://twitter.com/Tanq567300"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&amp;logo=twitter&amp;logoColor=white"/></a>
   <a href="https://tanqp.me"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&amp;logo=firefox&amp;logoColor=white"/></a>
 </p>
 
@@ -24,7 +23,7 @@
 
 - 🎓 B.Tech CSE @ **VIT Bhopal University** (May 2023 – May 2027) · CGPA 7.86
 - 🎨 Frontend &amp; React Native developer — I focus on clean UI/UX, component architecture, and seamless user experiences
-- 🔭 Currently building **Mansik**, an AI-powered mental wellness platform
+- 💼 Frontend Developer Intern — Currently working @ Recooty as a Frontend Developer Intern
 - 🧩 Comfortable with backend integration, REST APIs, and AI/ML concepts through academic and project work
 - 🎪 Core Member, Event Management — iCreate Club, VIT Bhopal (co-organized Funfinity at Advitya'25)
 - 📍 Based in Indore, MP
